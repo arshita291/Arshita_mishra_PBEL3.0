@@ -1,0 +1,6 @@
+{
+    "clusters": 10,
+    "silhouette_score": 0.036261732112226226,
+    "davies_bouldin_score": 4.922819405711519,
+    "calinski_harabasz_score": 9.72617820982678
+}
