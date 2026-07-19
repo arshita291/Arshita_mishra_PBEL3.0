@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The AI-Powered Intelligent Course Recommendation and Analytics System is a machine learning-based web application developed as part of the **IBM Project Based Experiential Learning (PBEL) 3.0 Virtual Internship**.
+The AI-Powered Intelligent Course Recommendation and Analytics System using machine learning, developed using **Python, Streamlit, Scikit-learn, Pandas, Plotly, and SQLite**, this project demonstrates the complete workflow of an AI/ML application—from data preprocessing and model training to deployment through an interactive web interface.
 
 The system recommends relevant online courses by analyzing course content using Machine Learning techniques. It also provides secure user authentication, recommendation history, and an interactive analytics dashboard for exploring course data.
 
